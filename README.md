@@ -49,6 +49,8 @@
 
 ## 💼 Experiencia Profesional
 
+- **Desarrollador de Software** — Instituto Técnico Ricaldone (Actual)  
+- **Desarrollador Web** — Ministerio de Medio Ambiente (MARN) - UICN (Actual)
 - **Desarrollador Web Full Stack** — Casa de huéspedes La Mansión (2025)  
 - **Supervisor de Brigada** — Banco Central de Reserva (2024)  
 - **Programador Web** — VoipCom El Salvador (2023 – 2024)  
