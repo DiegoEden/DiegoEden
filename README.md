@@ -30,7 +30,7 @@
 | **Sistema de Gestión de Reservaciones** | Gestión de clientes, habitaciones, reservas y panel administrativo | PHP, Bootstrap, JavaScript |
 | **Sistema de Gestión de Productos** | Inventarios, roles y permisos, autenticación | C#, SQL Server, .NET Framework |
 | **E-commerce “EXPOSE”** | Tienda online con carrito, facturación, panel administrativo | PHP, Bootstrap, JavaScript |
-| **ProjectGuru** | Sistema de gestión de proyectos con tablero tipo Kanban | C#, ASP.NET Core (Razor Pages), Bootstrap |
+| **ProjectGuru** | Sistema de gestión de proyectos con tablero tipo Kanban | C#, ASP.NET Core (Razor Pages), Bootstrap, SQL Server |
 
 🔗 [Ver todos mis proyectos en mi portafolio](https://diegoeden.github.io/portafolio/)
 
