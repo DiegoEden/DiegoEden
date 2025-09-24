@@ -63,9 +63,9 @@
 
 ## 🚀 Actualmente aprendiendo
 
-- 🔹 **.NET Core avanzado**  
+- 🔹 **Laravel avanzado**  
 - 🔹 **Arquitectura de software & patrones de diseño**  
-- 🔹 **DevOps y CI/CD**  
+- 🔹 **Docker avanzado** 
 
 ---
 
