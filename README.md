@@ -50,7 +50,7 @@
 
 ## 💼 Experiencia Profesional
 
-- **Desarrollador Web** - Ministerio de Medio Ambiente (Proyecto)(Actual)
+- **Desarrollador Web** - Ministerio de Medio Ambiente - UICN (Proyecto)(Actual)
 - **Desarrollador de Software** — Instituto Técnico Ricaldone (Actual)  
 - **Desarrollador Web Full Stack** — Casa de huéspedes La Mansión (2025)  
 - **Supervisor de Brigada** — Banco Central de Reserva (2024)  
